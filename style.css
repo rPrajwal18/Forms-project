@@ -137,7 +137,7 @@ button:hover {
     .contact-left,
     .contact-right {
         flex-basis: 100%;
-        padding: 40px 100px;
+        padding: 40px 90px;
     }
     .contact-right{
         margin-top: 15px;
